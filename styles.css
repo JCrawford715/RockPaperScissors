@@ -1,0 +1,53 @@
+body{
+	font-size:3.5vmin;
+	background-color: black;
+}
+
+.row{
+	margin:auto;
+}
+
+.d{
+	text-align:center;
+}
+
+h1{
+	text-align:center;
+	font-family:'Baloo Bhaina', cursive;
+	font-size:250%;
+}
+h2{
+	text-align:center;
+	font-family:'Baloo Bhaina', cursive;
+	
+}
+
+#col{
+	width:55%;
+	margin:auto;
+	border-radius:5px;
+	margin-top:4%;
+	box-shadow: 3px 3px 10px 10px; 
+	background-color: white;
+	padding:10px 30px;
+}
+
+#fight_btn{
+	width:53%;
+}
+
+#Reset{
+	width:44%;
+}
+
+#winner{
+	margin-bottom:20px;
+}
+
+#user_point, #cpu_point{
+	font-family:'Modak', cursive;
+}
+
+.bluh{
+	font-family:'Yatra One', cursive;
+}
